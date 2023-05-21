@@ -1,15 +1,16 @@
-/*  your css code here. If applicable */
 div.A{
     background-color: #f5f5f5;
     width:50%;
-    height:200px;
+    height:250px;
     margin-left: 20%;
 }
 div.B{
     background-color: white;
-    width: fit-content;
+    width: 90%;
     margin-left: 5%;
 }
 p.C{
     text-align: right;
+    font-style: italic;
+    font-weight: bold;
 }
